@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fe99f714-5b53-45c1-9ebf-9f08a9523b60" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../../guaua/software/apache-maven/apache-maven-3.3.1" />
+        <option name="userSettingsFile" value="D:\work\guaua\software\apache-maven\apache-maven-3.3.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1rk04WedUbFchLBfpGXLBcz83db" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="showModules" value="false" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/mqProducer/src/main/java/com/ge" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.repository.indices" />
+  </component>
+  <component name="RunManager">
+    <configuration name="ProducerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="mqProducer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ge.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ge.ProducerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.ProducerApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fe99f714-5b53-45c1-9ebf-9f08a9523b60" name="Default Changelist" comment="" />
+      <created>1619504589889</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1619504589889</updated>
+      <workItem from="1619504591361" duration="8613000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="606" y="122" key="#xdebugger.evaluate" timestamp="1619510376649">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="606" y="122" key="#xdebugger.evaluate/0.0.1536.824@0.0.1536.824" timestamp="1619510376649" />
+    <state width="699" height="491" key="DebuggerActiveHint" timestamp="1619510474912">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="699" height="491" key="DebuggerActiveHint/0.0.1536.824@0.0.1536.824" timestamp="1619510474912" />
+    <state x="550" y="170" key="FileChooserDialogImpl" timestamp="1619504708219">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="550" y="170" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1619504708219" />
+    <state width="1493" height="186" key="GridCell.Tab.0.bottom" timestamp="1619513049055">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="186" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1619513049055" />
+    <state width="1493" height="186" key="GridCell.Tab.0.center" timestamp="1619513049054">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="186" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1619513049054" />
+    <state width="1493" height="186" key="GridCell.Tab.0.left" timestamp="1619513049054">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="186" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1619513049054" />
+    <state width="1493" height="186" key="GridCell.Tab.0.right" timestamp="1619513049054">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="186" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1619513049054" />
+    <state width="1493" height="186" key="GridCell.Tab.1.bottom" timestamp="1619513048957">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="186" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1619513048957" />
+    <state width="1493" height="186" key="GridCell.Tab.1.center" timestamp="1619513048956">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="186" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1619513048956" />
+    <state width="1493" height="186" key="GridCell.Tab.1.left" timestamp="1619513048956">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="186" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1619513048956" />
+    <state width="1493" height="186" key="GridCell.Tab.1.right" timestamp="1619513048957">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="186" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1619513048957" />
+    <state x="281" y="58" key="SettingsEditor" timestamp="1619506291346">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="281" y="58" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1619506291346" />
+    <state x="585" y="194" key="chooseDestDirectoryDialog" timestamp="1619509788229">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="585" y="194" key="chooseDestDirectoryDialog/0.0.1536.824@0.0.1536.824" timestamp="1619509788229" />
+    <state x="203" y="117" key="new project wizard" timestamp="1619505079058">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="203" y="117" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1619505079058" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/mqProducer/src/main/java/com/ge/service/ProducerService.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
